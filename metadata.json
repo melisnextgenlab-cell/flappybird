@@ -1,0 +1,6 @@
+{
+  "name": "Zıplayan Kuş - Flappy Bird Macerası",
+  "description": "Modern açık gökyüzü temalı, dokunma ve boşluk tuşuyla oynanan zıplayan kuş oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    touch-action: manipulation;
+    overflow: hidden;
+    background-color: #0f172a;
+  }
+}
+
+.font-game {
+  font-family: 'Fredoka', cursive, system-ui, sans-serif;
+}
